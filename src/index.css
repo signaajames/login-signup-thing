@@ -1,0 +1,15 @@
+:root {
+  --background-main: #000;
+  --background-secondary: #0f0f0f;
+  --background-third: #111;
+
+  --text-main: #fafafa;
+  --text-secondary: #d4d4d4;
+  --text-muted: #aaa;
+
+  --border: #222;
+}
+
+* {
+  font-family: 'Nunito', sans-serif;
+}
